@@ -1,10 +1,31 @@
 header{
     background-color: #71aa35;
-    color: #e5fedb;
+    color: #effee9;
     text-align: center;
 }
 main{
     background-color: white;
     color: #71aa35;
     text-align: center;
+}
+
+.conteiner-card{
+    display: flex;
+    width: 100%;
+    margin: 0px auto;
+}
+
+.card{
+    padding: 5px;
+    border: 2px solid #71aa35;
+    margin: 10px;
+    background-color: #71aa35;
+    color: #effee9;
+    text-align: center;
+    border-radius: 10px;
+}
+
+img{
+    width: 170px;
+    height: 120px;
 }

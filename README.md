@@ -1,2 +1,2 @@
-# Reino-Selvagem-TRABALHO
-TRABALHO 1IA BENTO/ TECNOLOGIA INOVAÇAO
+## Reino-Selvagem-TRABALHO
+#Projeto referente a disciplina de Tecnologia e Inovação para a turma 1º ano I do colégio BENTO.

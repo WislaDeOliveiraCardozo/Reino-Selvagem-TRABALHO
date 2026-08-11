@@ -1,42 +1,195 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reino Selvagem</title>
+
+    <title>Reino Animal</title>
+
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-     <header>
-        <h1>Reino Selvagem</h1>
-        <p>Curiosidade Animal</p>
+
+    <!-- CABEÇALHO -->
+    <header>
+        <h1>🐾 Reino Animal</h1>
+        <p>Descubra o mundo da vida selvagem</p>
+
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="#animais">Animais</a>
+            <a href="#curiosidades">Curiosidades</a>
+        </nav>
     </header>
-    <main>
-        <h2>ANIMAIS</h2>
-        <h3>Entre no mundo dos animais, desde a vida selvagem até os amados animais de estimação. Aprenda sobre algumas das espécies mais incríveis da natureza por meio de descobertas recentes e estudos inovadores sobre habitats, comportamentos e adaptações únicas dos animais.</h3>
-    </main>
-</body>
-<div style="width: 100; display: flex;">
-    <div class="conteiner-card">
-        <div class="card">
-            <img src="https://c4.wallpaperflare.com/wallpaper/829/282/330/animales-ciervo-herbivoro-mamifero-wallpaper-preview.jpg">
-            <h3>MAMÍFEROS</h3>
-         <a href="animal001.html" target="_blank" rel="noopener noreferrer">Explorar</a>
+
+
+    <!-- DESTAQUE PRINCIPAL -->
+    <section class="hero">
+
+        <div class="hero-conteudo">
+
+            <h2>DESCUBRA O REINO ANIMAL</h2>
+
+            <p>
+                Entre no mundo dos animais e conheça espécies,
+                habitats, comportamentos e curiosidades incríveis
+                sobre a vida em nosso planeta.
+            </p>
+
+            <a href="#animais" class="botao">EXPLORAR ANIMAIS</a>
+
         </div>
-    <div class="card">
-        <img src="https://images.unsplash.com/photo-1588715703712-2a8d1b0c9619?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGFwZWwlMjBkZSUyMHBhcmVkZSUyMHAlQzMlQTFzc2Fyb3xlbnwwfHwwfHx8MA%3D%3D">
-        <h3>AVES</h3>
-         <a href="animal002.html" target="_blank" rel="noopener noreferrer">Explorar</a>
-    </div>
-    <div class="card">
-        <img src="https://wallpapers.com/images/featured/fundo-de-peixe-em-hd-vmdp350flf699xm1.jpg">
-        <h3>PEIXES</h3>
-        <a href="animal003.html" target="_blank" rel="noopener noreferrer">Explorar</a>
-    </div>
-    <div class="card">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG28xtMAqN_vDrJcO4anUJolBY0IIXoNsgypBZScD-hdmgjoK8WfMFogzh&s=10">
-        <h3>RÉPTEIS</h3>
-        <a href="animal004.html" target="_blank" rel="noopener noreferrer">Explorar</a>
-    </div>
-</div>
+
+    </section>
+
+
+    <!-- CATEGORIAS -->
+    <main>
+
+        <section id="animais">
+
+            <h2>EXPLORE OS ANIMAIS</h2>
+
+            <p class="introducao">
+                Conheça diferentes grupos de animais e descubra
+                algumas das espécies mais fascinantes da natureza.
+            </p>
+
+
+            <div class="container-card">
+
+                <!-- MAMÍFEROS -->
+                <div class="card">
+
+                    <img src="https://loremflickr.com/600/400/mammal" alt="Mamífero">
+
+                    <h3>MAMÍFEROS</h3>
+
+                    <p>
+                        Conheça animais como leões, tigres,
+                        elefantes, lobos e muitos outros.
+                    </p>
+
+                    <a href="animal001.html">EXPLORAR</a>
+
+                </div>
+
+
+                <!-- AVES -->
+                <div class="card">
+
+                    <img src="https://loremflickr.com/600/400/bird" alt="Ave">
+
+                    <h3>AVES</h3>
+
+                    <p>
+                        Descubra o mundo das aves, desde
+                        pequenos pássaros até grandes predadores.
+                    </p>
+
+                    <a href="animal002.html">EXPLORAR</a>
+
+                </div>
+
+
+                <!-- PEIXES -->
+                <div class="card">
+
+                    <img src="https://loremflickr.com/600/400/fish" alt="Peixe">
+
+                    <h3>PEIXES</h3>
+
+                    <p>
+                        Explore os animais que vivem nos rios,
+                        mares, oceanos e outros ambientes aquáticos.
+                    </p>
+
+                    <a href="animal003.html">EXPLORAR</a>
+
+                </div>
+
+
+                <!-- RÉPTEIS -->
+                <div class="card">
+
+                    <img src="https://loremflickr.com/600/400/reptile" alt="Réptil">
+
+                    <h3>RÉPTEIS</h3>
+
+                    <p>
+                        Conheça cobras, tartarugas, lagartos,
+                        crocodilos e outros répteis.
+                    </p>
+
+                    <a href="animal004.html">EXPLORAR</a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ANIMAL EM DESTAQUE -->
+        <section class="destaque">
+
+            <div class="destaque-imagem">
+
+                <img src="https://loremflickr.com/900/600/jaguar" alt="Onça-pintada">
+
+            </div>
+
+            <div class="destaque-texto">
+
+                <p class="pequeno-titulo">ANIMAL EM DESTAQUE</p>
+
+                <h2>ONÇA-PINTADA</h2>
+
+                <p>
+                    Um dos maiores felinos das Américas, a
+                    onça-pintada é conhecida por sua força,
+                    habilidade de caça e importância para os
+                    ecossistemas onde vive.
+                </p>
+
+                <a href="animal001.html" class="botao">SAIBA MAIS</a>
+
+            </div>
+
+        </section>
+
+
+        <!-- CURIOSIDADE -->
+        <section id="curiosidades" class="curiosidade">
+
+            <h2>🔎 VOCÊ SABIA?</h2>
+
+            <p>
+                Os elefantes conseguem utilizar diferentes tipos
+                de sons para se comunicar e podem reconhecer
+                outros indivíduos de seu grupo.
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <!-- RODAPÉ -->
+    <footer>
+
+        <h3>🐾 Reino Animal</h3>
+
+        <p>
+            Conhecimento, natureza e curiosidades sobre o mundo animal.
+        </p>
+
+        <p>Projeto escolar - Tecnologia e Inovação</p>
+
+    </footer>
+
+</body>
+
 </html>

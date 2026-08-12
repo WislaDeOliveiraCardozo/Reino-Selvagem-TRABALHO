@@ -95,12 +95,12 @@ main {
     color: white;
 }
 
-.hero-repteis-conteudo {
+.texto-repteis {
 
     max-width: 800px;
 }
 
-.hero-repteis-conteudo p {
+.texto-repteis p {
 
     font-size: 14px;
 
@@ -177,12 +177,12 @@ main {
     color: white;
 }
 
-.hero-aves-conteudo {
+.texto-aves {
 
     max-width: 800px;
 }
 
-.hero-aves-conteudo p {
+.texto-aves p {
 
     font-size: 14px;
 

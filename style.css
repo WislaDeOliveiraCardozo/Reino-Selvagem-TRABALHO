@@ -1,17 +1,16 @@
 header {
-    background-color: #71aa35;
-    color: #effee9;
+    background-color: #263D2B;
+    color: #F2EBDD;
     text-align: center;
     padding: 25px;
 }
 
 main {
-    background-color: white;
-    color: #71aa35;
+    background-color: #F2EBDD;
+    color: #263D2B;
     text-align: center;
     padding: 20px;
 }
-
 .container-card {
     display: flex;
     justify-content: center;

@@ -53,3 +53,19 @@ main {
     object-position: center;
     display: block;
 }
+
+.foto-cobra {
+    object-position: 20% center;
+}
+
+.foto-tartaruga {
+    object-position: 35% center;
+}
+
+.foto-lagarto {
+    object-position: 50% center;
+}
+
+.foto-crocodilo {
+    object-position: 50% center;
+}

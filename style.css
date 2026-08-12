@@ -1,5 +1,5 @@
 header {
-    background-color: #263D2B;
+    background-color: #FFD54F;
     color: #F2EBDD;
     text-align: center;
     padding: 25px;
@@ -7,7 +7,7 @@ header {
 
 main {
     background-color: #F2EBDD;
-    color: #263D2B;
+    color: #FFD54F;
     text-align: center;
     padding: 20px;
 }
@@ -23,9 +23,9 @@ main {
 .card {
     width: 200px;
     padding: 10px;
-    border: 2px solid #263D2B;
+    border: 2px solid #dcb433;
     margin: 10px;
-    background-color: #263D2B;
+    background-color: #dcb433;
     color: #effee9;
     text-align: center;
     border-radius: 10px;

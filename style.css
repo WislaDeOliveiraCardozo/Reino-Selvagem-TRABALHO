@@ -182,12 +182,12 @@ main {
     color: white;
 }
 
-.hero-repteis-conteudo {
+.hero-aves-conteudo {
 
     max-width: 800px;
 }
 
-.hero-repteis-conteudo p {
+.hero-aves-conteudo p {
 
     font-size: 14px;
 
@@ -196,7 +196,7 @@ main {
     letter-spacing: 3px;
 }
 
-.hero-repteis h1 {
+.hero-aves h1 {
 
     font-size: 70px;
 
@@ -205,7 +205,7 @@ main {
     letter-spacing: 3px;
 }
 
-.hero-repteis h2 {
+.hero-aves h2 {
 
     font-size: 28px;
 

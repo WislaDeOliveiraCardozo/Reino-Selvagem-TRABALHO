@@ -48,7 +48,7 @@ main {
 
 .animal-reptil img {
     width: 100%;
-    height: 220px;
+    height: 190px;
     object-fit: cover;
     display: block;
 }
@@ -62,7 +62,7 @@ main {
 }
 
 .foto-lagarto {
-    object-position: 100% 50% center !important;
+    object-position: 35% 50% !important;
 }
 
 .foto-crocodilo {

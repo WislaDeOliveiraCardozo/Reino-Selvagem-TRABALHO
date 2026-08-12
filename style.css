@@ -48,23 +48,23 @@ main {
 
 .animal-reptil img {
     width: 100%;
-    height: 190px;
+    height: 250px;
     object-fit: cover;
     display: block;
 }
 
 .foto-cobra {
-    object-position: 20% center;
+    object-position: center 30%;
 }
 
 .foto-tartaruga {
-    object-position: 35% center;
+    object-position: center 40%;
 }
 
 .foto-lagarto {
-    object-position: 35% 50% !important;
+    object-position: center 30%;
 }
 
 .foto-crocodilo {
-    object-position: 50% center;
+    object-position: center 40%;
 }

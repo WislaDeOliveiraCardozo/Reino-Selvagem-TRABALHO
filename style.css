@@ -153,7 +153,7 @@ main {
     object-position: center 10%;
 }
 
-.hero-aves {
+.hero-ave {
 
     height: 550px;
 
@@ -162,7 +162,7 @@ main {
             rgba(0, 0, 0, 0.35),
             rgba(0, 0, 0, 0.60)
         ),
-        url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qym4fW-mNrDIe0PRm7t_6pvooATO-RmgwCGRX-UKy9xJoGiieSSvEFKj&s=10");
+        url("zhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qym4fW-mNrDIe0PRm7t_6pvooATO-RmgwCGRX-UKy9xJoGiieSSvEFKj&s=10");
 
     background-size: cover;
 
@@ -177,12 +177,12 @@ main {
     color: white;
 }
 
-.hero-aves-conteudo {
+.hero-ave-conteudo {
 
     max-width: 800px;
 }
 
-.hero-aves-conteudo p {
+.hero-ave-conteudo p {
 
     font-size: 14px;
 
@@ -191,7 +191,7 @@ main {
     letter-spacing: 3px;
 }
 
-.hero-aves h1 {
+.hero-ave h1 {
 
     font-size: 70px;
 
@@ -200,7 +200,7 @@ main {
     letter-spacing: 3px;
 }
 
-.hero-aves h2 {
+.hero-ave h2 {
 
     font-size: 28px;
 

@@ -316,3 +316,59 @@ main {
 .foto-canguru {
     object-position: center 80%;
 }
+
+.hero-mamiferos {
+
+    height: 550px;
+
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.35),
+            rgba(0, 0, 0, 0.60)
+        ),
+        url("hhttps://midiamax.com.br/trends/wp-content/uploads/2026/07/orcas-atacam-barcos-2.jpg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    display: flex;
+
+    align-items: flex-end;
+
+    padding: 60px;
+
+    color: white;
+}
+
+.texto-mamiferos {
+
+    max-width: 800px;
+}
+
+.texto-mamiferos h3 {
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    letter-spacing: 3px;
+}
+
+.hero-mamiferos h1 {
+
+    font-size: 70px;
+
+    margin: 10px 0 0;
+
+    letter-spacing: 3px;
+}
+
+.hero-mamiferos h2 {
+
+    font-size: 28px;
+
+    margin: 5px 0 20px;
+
+    color: white;
+}

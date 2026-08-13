@@ -233,5 +233,62 @@ main {
 }
 
 .foto-bolha {
-    object-position: center 20%;
+    object-position: center 30%;
 }
+
+.hero-peixes {
+
+    height: 550px;
+
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.35),
+            rgba(0, 0, 0, 0.60)
+        ),
+        url("https://img.odcdn.com.br/wp-content/uploads/2020/10/20201026071100.jpg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    display: flex;
+
+    align-items: flex-end;
+
+    padding: 60px;
+
+    color: white;
+}
+
+.texto-peixes {
+
+    max-width: 800px;
+}
+
+.texto-peixes h3 {
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    letter-spacing: 3px;
+}
+
+.hero-peixes h1 {
+
+    font-size: 70px;
+
+    margin: 10px 0 0;
+
+    letter-spacing: 3px;
+}
+
+.hero-peixes h2 {
+
+    font-size: 28px;
+
+    margin: 5px 0 20px;
+
+    color: white;
+}
+

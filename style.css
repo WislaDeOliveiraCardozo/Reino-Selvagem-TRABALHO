@@ -382,23 +382,25 @@ main {
 
     background-image:
         linear-gradient(
-            rgb(26, 24, 0),
-            rgba(29, 22, 0, 0.65)
+           rgba(0, 0, 0, 0.30),
+           rgba(0, 0, 0, 0.65)
         ),
         url("https://veganbusiness.com.br/wp-content/uploads/2021/10/preservacao-da-onca-pintada-760x506.jpg");
 
+   
     background-size: cover;
-
-    background-position: bottom;
+    background-position: center;
 
     display: flex;
 
-    align-items: flex-end;
+    align-items: center;
+    justify-content: center;
 
     padding: 60px;
 
     color: white;
-}
+
+    text-align: center;
 
 
 .hero-onca-conteudo {

@@ -462,14 +462,6 @@ main {
     flex-wrap: wrap;
 }
 
-.curiosidade {
-    width: 250px;
-    padding: 20px;
-    background-color: white;
-    border: 2px solid #C9A227;
-    border-radius: 12px;
-    text-align: left;
-}
 
 .curiosidades-onca {
     max-width: 900px;

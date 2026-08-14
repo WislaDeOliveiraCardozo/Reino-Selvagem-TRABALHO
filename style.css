@@ -382,8 +382,8 @@ main {
 
     background-image:
         linear-gradient(
-            rgba(0, 0, 0, 0.30),
-            rgba(0, 0, 0, 0.65)
+            rgb(196, 186, 45),
+            rgba(189, 147, 7, 0.65)
         ),
         url("https://veganbusiness.com.br/wp-content/uploads/2021/10/preservacao-da-onca-pintada-760x506.jpg");
 

@@ -489,10 +489,16 @@ main {
     display: block;
 }
 
+.introducao-onca{
+    max-width: 900px;
+    margin: 60px auto;
+    text-align: center;
+}
+
 .informacao-onca {
     max-width: 900px;
     margin: 60px auto;
-    text-align: left;
+    text-align: center;
 }
 
 .informacao-onca h2 {

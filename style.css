@@ -513,25 +513,25 @@ main {
     margin-bottom: 30px;
 }
 
-.video-onca {
+.predadora-onca {
     max-width: 900px;
     margin: 60px auto;
     text-align: left;
 }
 
-.video-onca h2 {
+.predadora-onca h2 {
     color: #263D2B;
     font-size: 32px;
     margin-bottom: 20px;
 }
 
-.video-onca p {
+.predadora-onca p {
     font-size: 18px;
     line-height: 1.8;
     margin-bottom: 30px;
 }
 
-.video-onca iframe {
+.predadora-onca iframe {
     width: 100%;
     height: 500px;
     border: none;

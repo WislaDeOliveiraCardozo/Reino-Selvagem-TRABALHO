@@ -470,3 +470,29 @@ main {
     border-radius: 12px;
     text-align: left;
 }
+
+.curiosidades-onca {
+    max-width: 900px;
+    margin: 60px auto;
+    text-align: left;
+}
+
+.curiosidades-onca h2 {
+    color: #263D2B;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.curiosidades-onca p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.curiosidades-onca img {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+}

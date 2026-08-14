@@ -455,3 +455,21 @@ main {
     color: white;
 }
 
+.introducao-onca p,
+.informacao-onca p,
+.curiosidades-onca p,
+.conservacao-onca p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 25px;
+}
+
+.introducao-onca h3,
+.informacao-onca h3,
+.curiosidades-onca h3,
+.conservacao-onca h3 {
+    color: #263D2B;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}

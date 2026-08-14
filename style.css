@@ -488,3 +488,21 @@ main {
     border-radius: 8px;
     display: block;
 }
+
+.informacao-onca {
+    max-width: 900px;
+    margin: 60px auto;
+    text-align: left;
+}
+
+.informacao-onca h2 {
+    color: #263D2B;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.informacao-onca p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
